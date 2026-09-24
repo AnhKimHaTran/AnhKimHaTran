@@ -1,7 +1,7 @@
 ## ✨ About me ✨
 <div align = "center">
 <h3>I'm <b>Anh Tran</b> </h3>
-<h3>Game programmer and artists/h3>
+<h3>Game programmer and artist</h3>
 </div>
 <br>
 <p align="center">
