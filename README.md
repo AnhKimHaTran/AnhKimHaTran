@@ -1,7 +1,7 @@
 ## ✨ About me ✨
 <div align = "center">
-<h3>✌️Hi, I'm <b>Anh Kim Ha Tran!</b> </h3>
-<h3>I'm a college freshman with a passion for building games, making art, and coding.</h3>
+<h3>I'm <b>Anh Tran</b> </h3>
+<h3>Game programmer and artists/h3>
 </div>
 <br>
 <p align="center">
