@@ -32,7 +32,3 @@ Itch.io: [**Duck Tran**](https://ducktran.itch.io/)
 ## 🍓 Web Applications 🍓
 - [Kanban Progress Tracker](https://github.com/KimHaAnhTran/ProgressTracker)
 - [Springboot Simple Calculator](https://github.com/KimHaAnhTran/Simple-Calculator)
----
-## 🥝 Reading List 🥝
-- [Books Read](https://github.com/KimHaAnhTran/Books-Read/blob/main/BOOKS%20READ.md)
-- [Currently Reading](https://github.com/KimHaAnhTran/Books-Read/blob/main/README.md)
