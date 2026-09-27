@@ -28,6 +28,7 @@ Itch.io: [**Duck Tran**](https://ducktran.itch.io/)
 ## 🍋 Collaborative Game Jams 🍋
 - [A Question of Taste](https://github.com/KimHaAnhTran/AQuestionOfTaste_2025Brackeys)
 - [Tuned Out](https://github.com/KimHaAnhTran/TunedOut_2025GMTK/tree/master)
+- [Frame By Frame](https://ducktran.itch.io/frame-by-frame)
 ---
 ## 🍓 Web Applications 🍓
 - [Kanban Progress Tracker](https://github.com/KimHaAnhTran/ProgressTracker)
